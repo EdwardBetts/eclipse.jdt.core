@@ -86,7 +86,7 @@ import org.eclipse.jdt.internal.core.util.Messages;
 
 	/**
 	 * The original inclusive source range of the list of interfaces this
-	 * type implements or extends, not including any surrouding whitespace.
+	 * type implements or extends, not including any surrounding whitespace.
 	 * If the document did not specify interfaces, this array contains -1's.
 	 */
 	protected int[]  fInterfacesRange;
